@@ -1,3 +1,3 @@
 # html
 
-a collection of pieces of code
+a collection of pieces of html code
